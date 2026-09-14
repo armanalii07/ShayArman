@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://armanalii07.github.io/ShayArmAdmin/sitemap.xml
+Sitemap: https://armanalii07.github.io/ShayArman/sitemap.xml
